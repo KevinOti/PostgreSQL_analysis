@@ -1,0 +1,138 @@
+"country","gold","silver","bronze","count"
+"USA",2638,1641,1358,5637
+"Russia",1599,1170,1178,3947
+"Germany",1301,1195,1260,3756
+"UK",678,739,651,2068
+"France",501,610,666,1777
+"Italy",575,531,531,1637
+"Sweden",479,522,535,1536
+"Canada",463,438,451,1352
+"Australia",368,459,522,1349
+"Hungary",432,332,371,1135
+"Netherlands",287,340,413,1040
+"Norway",378,361,294,1033
+"China",351,349,293,993
+"Japan",247,309,357,913
+"Finland",198,270,432,900
+"Switzerland",175,248,268,691
+"Romania",161,200,292,653
+"Czech Republic",123,262,259,644
+"South Korea",221,232,185,638
+"Denmark",179,241,177,597
+"Poland",117,195,253,565
+"Serbia",157,222,160,539
+"Spain",110,243,136,489
+"Brazil",109,175,191,475
+"Belgium",98,197,173,468
+"Austria",108,186,156,450
+"Cuba",164,129,116,409
+"Bulgaria",54,144,144,342
+"Argentina",91,92,91,274
+"Greece",62,109,84,255
+"New Zealand",90,56,82,228
+"Ukraine",47,52,100,199
+"India",138,19,40,197
+"Jamaica",38,75,44,157
+"Croatia",58,54,37,149
+"Belarus",24,44,71,139
+"South Africa",32,47,52,131
+"Pakistan",42,45,34,121
+"Mexico",30,26,54,110
+"Kenya",34,41,31,106
+"Nigeria",23,30,46,99
+"Turkey",40,27,28,95
+"Kazakhstan",20,25,32,77
+"Iran",18,21,29,68
+"North Korea",16,16,35,67
+"Uruguay",31,2,30,63
+"Lithuania",6,7,48,61
+"Ethiopia",22,9,22,53
+"Estonia",13,12,25,50
+"Taiwan",3,28,18,49
+"Slovenia",8,13,27,48
+"Slovakia",15,19,13,47
+"Azerbaijan",7,12,25,44
+"Portugal",4,11,26,41
+"Indonesia",11,17,13,41
+"Bahamas",14,11,15,40
+"Trinidad",7,8,22,37
+"Latvia",3,19,13,35
+"Ireland",9,13,13,35
+"Uzbekistan",10,7,17,34
+"Chile",3,9,20,32
+"Georgia",8,6,18,32
+"Thailand",9,8,13,30
+"Colombia",5,9,14,28
+"Egypt",7,8,12,27
+"Mongolia",2,10,14,26
+"Morocco",6,5,12,23
+"Ghana",NULL,1,22,23
+"Cameroon",20,1,1,22
+"Zimbabwe",17,4,1,22
+"Algeria",5,4,8,17
+"Paraguay",NULL,17,NULL,17
+"Iceland",NULL,15,2,17
+"Malaysia",NULL,11,5,16
+"Armenia",2,5,9,16
+"Venezuela",2,3,10,15
+"Peru",1,14,NULL,15
+"Montenegro",NULL,14,NULL,14
+"Tunisia",3,3,7,13
+"Fiji",13,NULL,NULL,13
+"Philippines",NULL,3,7,10
+"Puerto Rico",1,2,6,9
+NULL,NULL,NULL,NULL,9
+"Israel",1,1,7,9
+"Liechtenstein",2,2,5,9
+"Luxembourg",4,4,NULL,8
+"Moldova",NULL,3,5,8
+"Haiti",1,1,5,7
+"Dominican Republic",3,2,2,7
+"Uganda",2,3,2,7
+"Saudi Arabia",NULL,1,5,6
+"Individual Olympic Athletes",1,1,3,5
+"Qatar",NULL,1,4,5
+"Syria",1,2,2,5
+"Tajikistan",1,1,2,4
+"Namibia",NULL,4,NULL,4
+"Vietnam",1,3,NULL,4
+"Lebanon",NULL,2,2,4
+"Costa Rica",1,1,2,4
+"Kyrgyzstan",NULL,1,2,3
+"Panama",1,NULL,2,3
+"Bahrain",1,1,1,3
+"Ivory Coast",1,1,1,3
+"Kuwait",NULL,NULL,2,2
+"Mozambique",1,NULL,1,2
+"Zambia",NULL,1,1,2
+"Niger",NULL,1,1,2
+"Tanzania",NULL,2,NULL,2
+"Grenada",1,1,NULL,2
+"Sri Lanka",NULL,2,NULL,2
+"Ecuador",1,1,NULL,2
+"Suriname",1,NULL,1,2
+"Afghanistan",NULL,NULL,2,2
+"United Arab Emirates",1,NULL,1,2
+"Burundi",1,1,NULL,2
+"Virgin Islands, US",NULL,1,NULL,1
+"Bermuda",NULL,NULL,1,1
+"Monaco",NULL,NULL,1,1
+"Barbados",NULL,NULL,1,1
+"Mauritius",NULL,NULL,1,1
+"Macedonia",NULL,NULL,1,1
+"Senegal",NULL,1,NULL,1
+"Kosovo",1,NULL,NULL,1
+"Jordan",1,NULL,NULL,1
+"Iraq",NULL,NULL,1,1
+"Sudan",NULL,1,NULL,1
+"Guyana",NULL,NULL,1,1
+"Guatemala",NULL,1,NULL,1
+"Togo",NULL,NULL,1,1
+"Tonga",NULL,1,NULL,1
+"Gabon",NULL,1,NULL,1
+"Eritrea",NULL,NULL,1,1
+"Djibouti",NULL,NULL,1,1
+"Cyprus",NULL,1,NULL,1
+"Curacao",NULL,1,NULL,1
+"Botswana",NULL,1,NULL,1
+"Nepal",1,NULL,NULL,1
